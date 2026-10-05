@@ -1,35 +1,4 @@
-A
-Aprender
-Os
-Python
-Python
-ajuda
-algoritmos
-crescente.
-criar
-de
-de
-de
-desenvolvimento
-diferentes
-do
-e
-forma
-informações
-linguagem
-lógico.
-muito
-no
-ordenação
-organizam
-para
-permite
-problemas.
-programação
-programação
-raciocínio
-simples
-soluções
-uma
-utilizada.
-é
+Python é uma linguagem de programação simples e muito utilizada.
+A programação permite criar soluções para diferentes problemas.
+Aprender Python ajuda no desenvolvimento do raciocínio lógico.
+Os algoritmos de ordenação organizam informações de forma crescente.
